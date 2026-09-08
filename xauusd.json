@@ -1,0 +1,11 @@
+{
+  "received_at": "2026-09-09 08:00:11",
+  "symbol": "OANDA:XAUUSD",
+  "timeframe": 60,
+  "bar_time": "2026-09-09 07:00:00",
+  "open": 4411.735,
+  "high": 4413.235,
+  "low": 4390.49,
+  "close": 4395.655,
+  "volume": 53730
+}
