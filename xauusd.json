@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026/09/11 20:00:57",
+  "generated_at": "2026/09/11 21:01:00",
   "symbol": "OANDA:XAUUSD",
   "latest": {
     "counts": {
@@ -8,143 +8,11 @@
       "h1": 1
     },
     "bar_time": {
-      "m5": "2026/09/11 19:55:00",
-      "m15": "2026/09/11 19:45:00",
-      "h1": "2026/09/11 19:00:00"
+      "m5": "2026/09/11 20:55:00",
+      "m15": "2026/09/11 20:45:00",
+      "h1": "2026/09/11 20:00:00"
     },
     "m5": [
-      {
-        "received_at": "2026/09/11 18:40:04",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 18:35:00",
-        "open": 4342.34,
-        "high": 4344.64,
-        "low": 4342.085,
-        "close": 4342.42,
-        "volume": 2077
-      },
-      {
-        "received_at": "2026/09/11 18:45:08",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 18:40:00",
-        "open": 4342.415,
-        "high": 4343.855,
-        "low": 4340.925,
-        "close": 4343.5,
-        "volume": 1713
-      },
-      {
-        "received_at": "2026/09/11 18:50:02",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 18:45:00",
-        "open": 4343.48,
-        "high": 4343.98,
-        "low": 4342.495,
-        "close": 4343.455,
-        "volume": 1975
-      },
-      {
-        "received_at": "2026/09/11 18:55:04",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 18:50:00",
-        "open": 4343.44,
-        "high": 4344.705,
-        "low": 4342.8,
-        "close": 4343.74,
-        "volume": 2671
-      },
-      {
-        "received_at": "2026/09/11 19:00:05",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 18:55:00",
-        "open": 4343.73,
-        "high": 4347.705,
-        "low": 4343.155,
-        "close": 4346.275,
-        "volume": 3180
-      },
-      {
-        "received_at": "2026/09/11 19:05:02",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 19:00:00",
-        "open": 4346.375,
-        "high": 4349.24,
-        "low": 4341.345,
-        "close": 4349.01,
-        "volume": 5617
-      },
-      {
-        "received_at": "2026/09/11 19:10:05",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 19:05:00",
-        "open": 4348.995,
-        "high": 4349.855,
-        "low": 4344.975,
-        "close": 4345.775,
-        "volume": 2445
-      },
-      {
-        "received_at": "2026/09/11 19:15:04",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 19:10:00",
-        "open": 4345.755,
-        "high": 4347.87,
-        "low": 4343.605,
-        "close": 4346.08,
-        "volume": 1618
-      },
-      {
-        "received_at": "2026/09/11 19:20:02",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 19:15:00",
-        "open": 4346.085,
-        "high": 4349.975,
-        "low": 4345.825,
-        "close": 4349.13,
-        "volume": 1806
-      },
-      {
-        "received_at": "2026/09/11 19:25:04",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 19:20:00",
-        "open": 4349.155,
-        "high": 4349.945,
-        "low": 4345.82,
-        "close": 4348.545,
-        "volume": 2476
-      },
-      {
-        "received_at": "2026/09/11 19:30:04",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 19:25:00",
-        "open": 4348.535,
-        "high": 4349.925,
-        "low": 4347.085,
-        "close": 4349.355,
-        "volume": 1495
-      },
-      {
-        "received_at": "2026/09/11 19:35:09",
-        "symbol": "OANDA:XAUUSD",
-        "timeframe": 5,
-        "bar_time": "2026/09/11 19:30:00",
-        "open": 4349.39,
-        "high": 4349.775,
-        "low": 4347.29,
-        "close": 4349.205,
-        "volume": 1286
-      },
       {
         "received_at": "2026/09/11 19:40:03",
         "symbol": "OANDA:XAUUSD",
@@ -199,70 +67,202 @@
         "low": 4336.8,
         "close": 4337.63,
         "volume": 1230
+      },
+      {
+        "received_at": "2026/09/11 20:05:06",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:00:00",
+        "open": 4337.555,
+        "high": 4342.715,
+        "low": 4337.385,
+        "close": 4339.51,
+        "volume": 1993
+      },
+      {
+        "received_at": "2026/09/11 20:10:03",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:05:00",
+        "open": 4339.61,
+        "high": 4340.38,
+        "low": 4337.02,
+        "close": 4337.425,
+        "volume": 1845
+      },
+      {
+        "received_at": "2026/09/11 20:15:01",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:10:00",
+        "open": 4337.43,
+        "high": 4338.515,
+        "low": 4334.77,
+        "close": 4338.04,
+        "volume": 2733
+      },
+      {
+        "received_at": "2026/09/11 20:20:07",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:15:00",
+        "open": 4338.025,
+        "high": 4339.215,
+        "low": 4336.105,
+        "close": 4338.65,
+        "volume": 2154
+      },
+      {
+        "received_at": "2026/09/11 20:25:05",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:20:00",
+        "open": 4338.655,
+        "high": 4339.86,
+        "low": 4336.95,
+        "close": 4338.635,
+        "volume": 2077
+      },
+      {
+        "received_at": "2026/09/11 20:30:05",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:25:00",
+        "open": 4338.655,
+        "high": 4341.665,
+        "low": 4336.28,
+        "close": 4336.55,
+        "volume": 2278
+      },
+      {
+        "received_at": "2026/09/11 20:35:03",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:30:00",
+        "open": 4336.56,
+        "high": 4337.505,
+        "low": 4331.77,
+        "close": 4331.77,
+        "volume": 1704
+      },
+      {
+        "received_at": "2026/09/11 20:40:03",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:35:00",
+        "open": 4331.935,
+        "high": 4334.225,
+        "low": 4330.335,
+        "close": 4332.655,
+        "volume": 2370
+      },
+      {
+        "received_at": "2026/09/11 20:45:05",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:40:00",
+        "open": 4332.68,
+        "high": 4334.92,
+        "low": 4330.285,
+        "close": 4334.92,
+        "volume": 2622
+      },
+      {
+        "received_at": "2026/09/11 20:50:02",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:45:00",
+        "open": 4334.925,
+        "high": 4336.325,
+        "low": 4333.115,
+        "close": 4335.38,
+        "volume": 3078
+      },
+      {
+        "received_at": "2026/09/11 20:55:04",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:50:00",
+        "open": 4335.39,
+        "high": 4335.64,
+        "low": 4331.165,
+        "close": 4331.165,
+        "volume": 2758
+      },
+      {
+        "received_at": "2026/09/11 21:00:06",
+        "symbol": "OANDA:XAUUSD",
+        "timeframe": 5,
+        "bar_time": "2026/09/11 20:55:00",
+        "open": 4331.19,
+        "high": 4334.08,
+        "low": 4330.935,
+        "close": 4333.51,
+        "volume": 2268
       }
     ],
     "m15": [
       {
-        "received_at": "2026/09/11 19:15:04",
+        "received_at": "2026/09/11 20:15:01",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:00:00",
-        "open": 4346.375,
-        "high": 4349.855,
-        "low": 4341.345,
-        "close": 4346.08,
-        "volume": 9680
+        "bar_time": "2026/09/11 20:00:00",
+        "open": 4337.555,
+        "high": 4342.715,
+        "low": 4334.77,
+        "close": 4338.04,
+        "volume": 6571
       },
       {
-        "received_at": "2026/09/11 19:30:04",
+        "received_at": "2026/09/11 20:30:05",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:15:00",
-        "open": 4346.085,
-        "high": 4349.975,
-        "low": 4345.82,
-        "close": 4349.355,
-        "volume": 5777
+        "bar_time": "2026/09/11 20:15:00",
+        "open": 4338.025,
+        "high": 4341.665,
+        "low": 4336.105,
+        "close": 4336.55,
+        "volume": 6509
       },
       {
-        "received_at": "2026/09/11 19:45:06",
+        "received_at": "2026/09/11 20:45:05",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:30:00",
-        "open": 4349.39,
-        "high": 4349.775,
-        "low": 4343.795,
-        "close": 4345.2,
-        "volume": 3871
+        "bar_time": "2026/09/11 20:30:00",
+        "open": 4336.56,
+        "high": 4337.505,
+        "low": 4330.285,
+        "close": 4334.92,
+        "volume": 6696
       },
       {
-        "received_at": "2026/09/11 20:00:08",
+        "received_at": "2026/09/11 21:00:06",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:45:00",
-        "open": 4345.305,
-        "high": 4345.485,
-        "low": 4336.8,
-        "close": 4337.63,
-        "volume": 3612
+        "bar_time": "2026/09/11 20:45:00",
+        "open": 4334.925,
+        "high": 4336.325,
+        "low": 4330.935,
+        "close": 4333.51,
+        "volume": 8104
       }
     ],
     "h1": [
       {
-        "received_at": "2026/09/11 20:00:08",
+        "received_at": "2026/09/11 21:00:06",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 60,
-        "bar_time": "2026/09/11 19:00:00",
-        "open": 4346.375,
-        "high": 4349.975,
-        "low": 4336.8,
-        "close": 4337.63,
-        "volume": 22940
+        "bar_time": "2026/09/11 20:00:00",
+        "open": 4337.555,
+        "high": 4342.715,
+        "low": 4330.285,
+        "close": 4333.51,
+        "volume": 27880
       }
     ]
   },
   "analysis_window": {
-    "anchor_h1": "2026/09/11 19:00:00",
+    "anchor_h1": "2026/09/11 20:00:00",
     "complete": true,
     "counts": {
       "m5": 12,
@@ -272,195 +272,195 @@
     "missing": [],
     "m5": [
       {
-        "received_at": "2026/09/11 19:05:02",
+        "received_at": "2026/09/11 20:05:06",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:00:00",
-        "open": 4346.375,
-        "high": 4349.24,
-        "low": 4341.345,
-        "close": 4349.01,
-        "volume": 5617
+        "bar_time": "2026/09/11 20:00:00",
+        "open": 4337.555,
+        "high": 4342.715,
+        "low": 4337.385,
+        "close": 4339.51,
+        "volume": 1993
       },
       {
-        "received_at": "2026/09/11 19:10:05",
+        "received_at": "2026/09/11 20:10:03",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:05:00",
-        "open": 4348.995,
-        "high": 4349.855,
-        "low": 4344.975,
-        "close": 4345.775,
-        "volume": 2445
+        "bar_time": "2026/09/11 20:05:00",
+        "open": 4339.61,
+        "high": 4340.38,
+        "low": 4337.02,
+        "close": 4337.425,
+        "volume": 1845
       },
       {
-        "received_at": "2026/09/11 19:15:04",
+        "received_at": "2026/09/11 20:15:01",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:10:00",
-        "open": 4345.755,
-        "high": 4347.87,
-        "low": 4343.605,
-        "close": 4346.08,
-        "volume": 1618
+        "bar_time": "2026/09/11 20:10:00",
+        "open": 4337.43,
+        "high": 4338.515,
+        "low": 4334.77,
+        "close": 4338.04,
+        "volume": 2733
       },
       {
-        "received_at": "2026/09/11 19:20:02",
+        "received_at": "2026/09/11 20:20:07",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:15:00",
-        "open": 4346.085,
-        "high": 4349.975,
-        "low": 4345.825,
-        "close": 4349.13,
-        "volume": 1806
+        "bar_time": "2026/09/11 20:15:00",
+        "open": 4338.025,
+        "high": 4339.215,
+        "low": 4336.105,
+        "close": 4338.65,
+        "volume": 2154
       },
       {
-        "received_at": "2026/09/11 19:25:04",
+        "received_at": "2026/09/11 20:25:05",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:20:00",
-        "open": 4349.155,
-        "high": 4349.945,
-        "low": 4345.82,
-        "close": 4348.545,
-        "volume": 2476
+        "bar_time": "2026/09/11 20:20:00",
+        "open": 4338.655,
+        "high": 4339.86,
+        "low": 4336.95,
+        "close": 4338.635,
+        "volume": 2077
       },
       {
-        "received_at": "2026/09/11 19:30:04",
+        "received_at": "2026/09/11 20:30:05",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:25:00",
-        "open": 4348.535,
-        "high": 4349.925,
-        "low": 4347.085,
-        "close": 4349.355,
-        "volume": 1495
+        "bar_time": "2026/09/11 20:25:00",
+        "open": 4338.655,
+        "high": 4341.665,
+        "low": 4336.28,
+        "close": 4336.55,
+        "volume": 2278
       },
       {
-        "received_at": "2026/09/11 19:35:09",
+        "received_at": "2026/09/11 20:35:03",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:30:00",
-        "open": 4349.39,
-        "high": 4349.775,
-        "low": 4347.29,
-        "close": 4349.205,
-        "volume": 1286
+        "bar_time": "2026/09/11 20:30:00",
+        "open": 4336.56,
+        "high": 4337.505,
+        "low": 4331.77,
+        "close": 4331.77,
+        "volume": 1704
       },
       {
-        "received_at": "2026/09/11 19:40:03",
+        "received_at": "2026/09/11 20:40:03",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:35:00",
-        "open": 4349.165,
-        "high": 4349.345,
-        "low": 4344.215,
-        "close": 4346.735,
-        "volume": 1252
+        "bar_time": "2026/09/11 20:35:00",
+        "open": 4331.935,
+        "high": 4334.225,
+        "low": 4330.335,
+        "close": 4332.655,
+        "volume": 2370
       },
       {
-        "received_at": "2026/09/11 19:45:06",
+        "received_at": "2026/09/11 20:45:05",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:40:00",
-        "open": 4346.715,
-        "high": 4346.8,
-        "low": 4343.795,
-        "close": 4345.2,
-        "volume": 1333
+        "bar_time": "2026/09/11 20:40:00",
+        "open": 4332.68,
+        "high": 4334.92,
+        "low": 4330.285,
+        "close": 4334.92,
+        "volume": 2622
       },
       {
-        "received_at": "2026/09/11 19:50:04",
+        "received_at": "2026/09/11 20:50:02",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:45:00",
-        "open": 4345.305,
-        "high": 4345.485,
-        "low": 4341.73,
-        "close": 4341.785,
-        "volume": 1311
+        "bar_time": "2026/09/11 20:45:00",
+        "open": 4334.925,
+        "high": 4336.325,
+        "low": 4333.115,
+        "close": 4335.38,
+        "volume": 3078
       },
       {
-        "received_at": "2026/09/11 19:55:04",
+        "received_at": "2026/09/11 20:55:04",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:50:00",
-        "open": 4342.035,
-        "high": 4342.66,
-        "low": 4339.875,
-        "close": 4340.775,
-        "volume": 1071
+        "bar_time": "2026/09/11 20:50:00",
+        "open": 4335.39,
+        "high": 4335.64,
+        "low": 4331.165,
+        "close": 4331.165,
+        "volume": 2758
       },
       {
-        "received_at": "2026/09/11 20:00:08",
+        "received_at": "2026/09/11 21:00:06",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 5,
-        "bar_time": "2026/09/11 19:55:00",
-        "open": 4340.795,
-        "high": 4341.015,
-        "low": 4336.8,
-        "close": 4337.63,
-        "volume": 1230
+        "bar_time": "2026/09/11 20:55:00",
+        "open": 4331.19,
+        "high": 4334.08,
+        "low": 4330.935,
+        "close": 4333.51,
+        "volume": 2268
       }
     ],
     "m15": [
       {
-        "received_at": "2026/09/11 19:15:04",
+        "received_at": "2026/09/11 20:15:01",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:00:00",
-        "open": 4346.375,
-        "high": 4349.855,
-        "low": 4341.345,
-        "close": 4346.08,
-        "volume": 9680
+        "bar_time": "2026/09/11 20:00:00",
+        "open": 4337.555,
+        "high": 4342.715,
+        "low": 4334.77,
+        "close": 4338.04,
+        "volume": 6571
       },
       {
-        "received_at": "2026/09/11 19:30:04",
+        "received_at": "2026/09/11 20:30:05",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:15:00",
-        "open": 4346.085,
-        "high": 4349.975,
-        "low": 4345.82,
-        "close": 4349.355,
-        "volume": 5777
+        "bar_time": "2026/09/11 20:15:00",
+        "open": 4338.025,
+        "high": 4341.665,
+        "low": 4336.105,
+        "close": 4336.55,
+        "volume": 6509
       },
       {
-        "received_at": "2026/09/11 19:45:06",
+        "received_at": "2026/09/11 20:45:05",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:30:00",
-        "open": 4349.39,
-        "high": 4349.775,
-        "low": 4343.795,
-        "close": 4345.2,
-        "volume": 3871
+        "bar_time": "2026/09/11 20:30:00",
+        "open": 4336.56,
+        "high": 4337.505,
+        "low": 4330.285,
+        "close": 4334.92,
+        "volume": 6696
       },
       {
-        "received_at": "2026/09/11 20:00:08",
+        "received_at": "2026/09/11 21:00:06",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 15,
-        "bar_time": "2026/09/11 19:45:00",
-        "open": 4345.305,
-        "high": 4345.485,
-        "low": 4336.8,
-        "close": 4337.63,
-        "volume": 3612
+        "bar_time": "2026/09/11 20:45:00",
+        "open": 4334.925,
+        "high": 4336.325,
+        "low": 4330.935,
+        "close": 4333.51,
+        "volume": 8104
       }
     ],
     "h1": [
       {
-        "received_at": "2026/09/11 20:00:08",
+        "received_at": "2026/09/11 21:00:06",
         "symbol": "OANDA:XAUUSD",
         "timeframe": 60,
-        "bar_time": "2026/09/11 19:00:00",
-        "open": 4346.375,
-        "high": 4349.975,
-        "low": 4336.8,
-        "close": 4337.63,
-        "volume": 22940
+        "bar_time": "2026/09/11 20:00:00",
+        "open": 4337.555,
+        "high": 4342.715,
+        "low": 4330.285,
+        "close": 4333.51,
+        "volume": 27880
       }
     ]
   },
