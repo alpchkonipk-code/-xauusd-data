@@ -1,35 +1,54 @@
 {
-  "ledger_version": "ledger_v1.1",
+  "ledger_version": "ledger_v1.2",
   "data_version": "v3_M5_M15_H1",
   "symbol": "OANDA:XAUUSD",
   "created_at": "2026/09/15 22:55:54",
-  "updated_at": "2026/09/15 23:18:41",
+  "updated_at": "2026/09/16 07:33:36",
+  "last_processed_m5_bar_time": null,
   "rules": {
-    "numbering": "セットアップ成立ごとにNo.を発番",
+    "numbering": "セットアップ成立ごとに最大No.+1",
     "confidence_high": "FORMAL",
     "confidence_medium": "PAPER",
     "confidence_low": "PAPER",
+    "entry_types": [
+      "MARKET",
+      "LIMIT",
+      "BREAKOUT"
+    ],
+    "statuses": [
+      "WAITING_ENTRY",
+      "ACTIVE",
+      "CLOSED"
+    ],
     "exit_conditions": [
       "TP",
       "SL",
       "BE",
       "TIMEOUT",
+      "NOT_TRIGGERED",
       "UNDECIDABLE"
     ],
-    "same_bar_rule": "同一M5足でTPとSLの両方に到達し先後不明ならUNDECIDABLE",
-    "post_edit_rule": "Entry確定後に方向・Entry・TP・SL・確信度・根拠・期限を変更しない"
+    "deadline_rule": "DeadlineはJSTの5分境界。Deadline時刻から始まるM5足は評価対象外",
+    "breakout_rule": "BREAKOUTはprevious_closeと対象M5 High/Lowで判定",
+    "same_bar_rule": "M5 OHLCだけでEntry/TP/SLの到達順序が判定不能ならUNDECIDABLE",
+    "tracking_rule": "全Entry方式でEntry成立足はMFE/MAE対象外。次のM5足から計測",
+    "post_edit_rule": "Prediction作成後に方向・Entry・TP・SL・確信度・根拠・期限を変更しない"
   },
   "stats": {
     "total": 0,
-    "open": 0,
+    "waiting_entry": 0,
+    "active": 0,
     "closed": 0,
     "high": 0,
     "medium": 0,
     "low": 0,
+    "formal": 0,
+    "paper": 0,
     "win": 0,
     "loss": 0,
     "be": 0,
     "timeout": 0,
+    "not_triggered": 0,
     "undecidable": 0
   },
   "predictions": []
