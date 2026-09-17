@@ -3,8 +3,8 @@
   "data_version": "v3_M5_M15_H1",
   "symbol": "OANDA:XAUUSD",
   "created_at": "2026/09/15 22:55:54",
-  "updated_at": "2026/09/17 12:50:10",
-  "last_processed_m5_bar_time": "2026/09/17 06:35:00",
+  "updated_at": "2026/09/17 12:50:11",
+  "last_processed_m5_bar_time": "2026/09/17 12:50:00",
   "rules": {
     "numbering": "セットアップ成立ごとに最大No.+1",
     "confidence_high": "FORMAL",
@@ -36,8 +36,8 @@
   },
   "stats": {
     "total": 2,
-    "waiting_entry": 2,
-    "active": 0,
+    "waiting_entry": 1,
+    "active": 1,
     "closed": 0,
     "high": 0,
     "medium": 2,
@@ -714,7 +714,7 @@
     },
     {
       "no": 2,
-      "status": "WAITING_ENTRY",
+      "status": "ACTIVE",
       "created_at": "2026/09/17 12:50:10",
       "data_version": "v3_M5_M15_H1",
       "trade_type": "PAPER",
@@ -723,10 +723,10 @@
       "entry": {
         "type": "LIMIT",
         "price": 4260,
-        "triggered": false,
+        "triggered": true,
         "triggered_at": null,
-        "trigger_bar_time": null,
-        "trigger_time_precision": null,
+        "trigger_bar_time": "2026/09/17 12:50:00",
+        "trigger_time_precision": "M5_BAR_ONLY",
         "market_audit": {
           "snapshot_latest_m5_close": 4295.71,
           "entry_minus_snapshot_close": null,
